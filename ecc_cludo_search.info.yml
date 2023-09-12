@@ -1,9 +1,7 @@
-name: "Essex Content Moderation"
+name: "Essex Cludo Search"
 type: module
-description: "Essex specific content moderation behavior"
+description: "Essex specific cludo search behavior"
 core_version_requirement: ^9 || ^10
 package: Custom
 dependencies:
-  - drupal:content_moderation
-
-
+  - drupal:cludo_search
