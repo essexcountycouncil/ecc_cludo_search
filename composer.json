@@ -1,5 +1,5 @@
 {
-    "name": "ecc_cludo_search/ecc_cludo_search",
+    "name": "essexcountycouncil/ecc_cludo_search",
     "description": "Shared Drupal cludo_search functionality for Essex County Council",
     "type": "drupal-module",
     "homepage": "https://github.com/essexcountycouncil/ecc_cludo_search"
